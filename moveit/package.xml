@@ -22,9 +22,12 @@
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>moveit_commander</run_depend>
   <run_depend>moveit_core</run_depend>
+  <run_depend>moveit_experimental</run_depend>
+  <run_depend>moveit_kinematics</run_depend>
   <run_depend>moveit_planners</run_depend>
   <run_depend>moveit_plugins</run_depend>
   <run_depend>moveit_ros</run_depend>
+  <run_depend>moveit_runtime</run_depend>
   <run_depend>moveit_setup_assistant</run_depend>
 
   <export>
